@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá eu sou a Laís, tenho 22 anos e moro no Rio de Janeiro. Atualmente, estou cursando Sistemas de Informações no CEFET-RJ e trabalho com suporte em TI na Força Aérea Brasileira enquanto realizo alguns pequenos projetos Full Stacks. Sou apaixonada por tecnologia e aqui eu apresento um pouco dos meus resultados!
+Olá eu sou a Laís, tenho 22 anos e moro no Rio de Janeiro. Atualmente estou cursando Sistemas de Informações no CEFET-RJ e trabalho com suporte em TI na Força Aérea Brasileira enquanto realizo alguns pequenos projetos Full Stacks. Sou apaixonada por tecnologia e aqui eu apresento um pouco dos meus resultados!
 
 ---
 
